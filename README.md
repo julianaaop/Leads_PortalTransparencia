@@ -9,3 +9,6 @@ Para executar o projeto, você precisará ter o Python 3.x e a biblioteca Seleni
 
 # Contribuindo
 Contribuições são sempre bem-vindas! Caso queira contribuir para o projeto, basta fazer um fork deste repositório e submeter suas alterações em um pull request.
+
+# Autor
+Este projeto foi desenvolvido por [Juliana Alves]. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
