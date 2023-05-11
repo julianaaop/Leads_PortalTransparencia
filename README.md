@@ -1,4 +1,4 @@
-# Leads_PortalTransparencia
+# Coleta de LEADS pelo Portal da Transparência
 Este projeto tem como objetivo coletar leads com licenças e alvarás próximos à vencer no site Portal da Transparência de Fortaleza, através de web scraping.
 
 # Bibliotecas utilizadas
